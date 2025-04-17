@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Oii! Eu sou a Kathlen👋</h1>
 
-<!--
-**KathlenGraziela/KathlenGraziela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seuusuario&color=blue" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Sobre mim**  
+Sou desenvolvedora apaixonada por tecnologia, gosto de criar soluções eficientes e escaláveis. Atualmente estou trabalhando com Go, sistemas distribuídos e automações para backend.
+
+🛠 **Tecnologias e Ferramentas**  
+- 🔧 Go, .Net
+
+📫 **Como me encontrar**  
+- LinkedIn: [Kathlen Graziela]([https://www.linkedin.com/in/kathlen-graziela-da-silva-ba578ab7/])  
+- E-mail: kathlengraziela@gmail.com
+
+---
+
+⚡ *"Transformando ideias em código, e código em soluções."*
