@@ -13,7 +13,7 @@ Sou desenvolvedora apaixonada por tecnologia, gosto de criar soluções eficient
 - 🔧 Go, .Net
 
 📫 **Como me encontrar**  
-- LinkedIn: [Kathlen Graziela]([https://www.linkedin.com/in/kathlen-graziela-da-silva-ba578ab7/])  
+- LinkedIn: [Kathlen Graziela]([[https://www.linkedin.com/in/kathlengraziela/](https://www.linkedin.com/in/kathlengraziela/)])  
 - E-mail: kathlengraziela@gmail.com
 
 ---
